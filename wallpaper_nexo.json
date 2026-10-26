@@ -1,323 +1,252 @@
-		
 [
-{
-"name": "NX003",
-"author": "AKustom15",
-"url": "https://i.ibb.co/Rp6B7mfk/NEXO-03.png",
-"collections": "NEXO",
-"downloadable": true,
-"size": 3930,
-"dimensions": "2048 x 3072 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "NX004",
-"author": "AKustom15",
-"url": "https://i.ibb.co/pBB5pJVz/NEXO-04.png",
-"collections": "NEXO",
-"downloadable": true,
-"size": 3784,
-"dimensions": "2048 x 3072 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY001",
-"author": "AKustom15",
-"url": "https://i.ibb.co/CKtP97sG/ZY001.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY002",
-"author": "AKustom15",
-"url": "https://i.ibb.co/b5YLxp0m/ZY002.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY003",
-"author": "AKustom15",
-"url": "https://i.ibb.co/7d6gRxZb/ZY003.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY004",
-"author": "AKustom15",
-"url": "https://i.ibb.co/VWX31wh5/ZY004.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY005",
-"author": "AKustom15",
-"url": "https://i.ibb.co/27nsf4F4/ZY005.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY006",
-"author": "AKustom15",
-"url": "https://i.ibb.co/YFFWrLLj/ZY006.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY007",
-"author": "AKustom15",
-"url": "https://i.ibb.co/TBwnWgdt/ZY007.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY008",
-"author": "AKustom15",
-"url": "https://i.ibb.co/sdWkBh1z/ZY008.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY009",
-"author": "AKustom15",
-"url": "https://i.ibb.co/gbDNgW78/ZY009.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY010",
-"author": "AKustom15",
-"url": "https://i.ibb.co/zh15QC8h/ZY010.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY011",
-"author": "AKustom15",
-"url": "https://i.ibb.co/HDnjpXBs/ZY011.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY012",
-"author": "AKustom15",
-"url": "https://i.ibb.co/TFpKyX7/ZY012.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY013",
-"author": "AKustom15",
-"url": "https://i.ibb.co/wZxh9Sqv/ZY013.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY014",
-"author": "AKustom15",
-"url": "https://i.ibb.co/zVSyt4qZ/ZY014.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY015",
-"author": "AKustom15",
-"url": "https://i.ibb.co/pvsZWxF9/ZY015.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY016",
-"author": "AKustom15",
-"url": "https://i.ibb.co/BVPhp48H/ZY016.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY017",
-"author": "AKustom15",
-"url": "https://i.ibb.co/fYKjJNTW/ZY017.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY018",
-"author": "AKustom15",
-"url": "https://i.ibb.co/kswBhFgW/ZY018.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY019",
-"author": "AKustom15",
-"url": "https://i.ibb.co/hRBpxCqc/ZY019.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY020",
-"author": "AKustom15",
-"url": "https://i.ibb.co/PsDJW80d/ZY020.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY021",
-"author": "AKustom15",
-"url": "https://i.ibb.co/Jwrm2j8s/ZY021.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY022",
-"author": "AKustom15",
-"url": "https://i.ibb.co/gbmvSVd1/ZY022.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY023",
-"author": "AKustom15",
-"url": "https://i.ibb.co/dsNZVcLH/ZY023.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY024",
-"author": "AKustom15",
-"url": "https://i.ibb.co/5hH6NXq1/ZY024.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY025",
-"author": "AKustom15",
-"url": "https://i.ibb.co/9H2Tftg7/ZY025.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY026",
-"author": "AKustom15",
-"url": "https://i.ibb.co/JwyLNbHB/ZY026.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY027",
-"author": "AKustom15",
-"url": "https://i.ibb.co/JRDG9Nbs/ZY027.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY028",
-"author": "AKustom15",
-"url": "https://i.ibb.co/WvNJmrPD/ZY028.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY029",
-"author": "AKustom15",
-"url": "https://i.ibb.co/MxzWKNR5/ZY029.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-},
-{
-"name": "ZY030",
-"author": "AKustom15",
-"url": "https://i.ibb.co/k2g3rdMx/ZY030.png",
-"collections": "ZYRA",
-"downloadable": true,
-"size": 1671,
-"dimensions": "4032 x 2304 px",
-"copyright": "Android Kustom15"
-}
+    {
+        "name": "NEXO_01",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/3mkf8yCR/NEXO-01.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 4984,
+        "dimensions": "2161 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_02",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/GNfFnHM/NEXO-02.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 5170,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_03",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/CKtbfp0v/NEXO-03.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 4686,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_04",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/mF9LGFKr/NEXO-04.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 4020,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_05",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/B23y55z3/NEXO-05.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 4617,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_06",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/RpCGcnyY/NEXO-06.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 4937,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_07",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/dX5br0q/NEXO-07.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 4067,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_08",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/LypKYKy/NEXO-08.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 3996,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_09",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/qY94KL7r/NEXO-09.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 3989,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_10",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/5gzrwKX0/NEXO-10.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 3969,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_11",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/6cR10jN7/NEXO-11.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 4325,
+        "dimensions": "2162 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_12",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/gFmGqXxJ/NEXO-12.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 3613,
+        "dimensions": "2161 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_13",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/dsQGFKvR/NEXO-13.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 7404,
+        "dimensions": "2161 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_14",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/ycjJ0gNm/NEXO-14.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 7762,
+        "dimensions": "2161 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_15",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/k2MZBqcY/NEXO-15.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 5214,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_16",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/gLw2xNNs/NEXO-16.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 5847,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_17",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/rGHGn0pc/NEXO-17.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 5935,
+        "dimensions": "2161 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_18",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/cSyrcFCX/NEXO-18.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 7656,
+        "dimensions": "1830 x 3848 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_19",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/rnCNSmG/NEXO-19.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 8418,
+        "dimensions": "1776 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_20",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/N2phv6gv/NEXO-20.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 9974,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_21",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/wFLHZgrC/NEXO-21.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 10623,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_22",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/PGxJ8PDR/NEXO-22.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 9672,
+        "dimensions": "1822 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "NEXO_23",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/Z6r8nj79/NEXO-23.png",
+        "collections": "NEXO",
+        "downloadable": true,
+        "size": 3442,
+        "dimensions": "2160 x 3840 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "ZY029",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/MxzWKNR5/ZY029.png",
+        "collections": "ZYRA",
+        "downloadable": true,
+        "size": 4223,
+        "dimensions": "1380 x 2069 px",
+        "copyright": "Android Kustom15"
+    },
+    {
+        "name": "ZY030",
+        "author": "AKustom15",
+        "url": "https://i.ibb.co/k2g3rdMx/ZY030.png",
+        "collections": "ZYRA",
+        "downloadable": true,
+        "size": 4053,
+        "dimensions": "1380 x 2069 px",
+        "copyright": "Android Kustom15"
+    }
 ]
